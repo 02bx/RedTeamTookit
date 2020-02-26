@@ -62,6 +62,14 @@ docker版:`docker pull redteamwing/oneforall:1.0`
 - **Nuages** Node开发的C2 https://github.com/p3nt4/Nuages
 - **Covenant** .Net Core开发的C2 https://github.com/cobbr/Covenant
 - **sliver** Go开发的C2 https://github.com/BishopFox/sliver
+- **meterpeter** powershell开发的C2 https://github.com/r00t-3xp10it/meterpeter
+- **C3** 是.net core开发的C2工具 功能很强! https://labs.f-secure.com/tools/c3
+- **FudgeC2** PY写的C2 https://github.com/Ziconius/FudgeC2
+- **CrossC2** 跨平台CobaltStrike上线 https://github.com/gloxec/CrossC2
+
+## 红队基础设施
+- **redcloud** 红对基础设施自动部署 https://github.com/khast3x/redcloud
+
 
 
 ## MISC
